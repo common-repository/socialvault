@@ -1,0 +1,7 @@
+.widget_id_not_valid input {
+     border: red 1px solid !important;
+ }
+
+p.widget_id_not_valid_text {
+    color: red;
+}
